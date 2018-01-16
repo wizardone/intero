@@ -1,6 +1,6 @@
 # Intero
 
-**TODO: Add description**
+Interactor pattern in Elixir?
 
 ## Installation
 
